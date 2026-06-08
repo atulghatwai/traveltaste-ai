@@ -113,6 +113,15 @@ background:#1e293b;
 padding:30px;
 border-radius:15px;
   text-align:center;
+ .contact-card a{
+    color:white;
+    font-weight:600;
+    text-decoration:none;
+}
+
+.contact-card a:hover{
+    color:#4ff3ff;
+}   
 }
 
 .pricing{
@@ -185,4 +194,14 @@ gap:10px;
 font-size:0.9rem;
 }
 
+}
+.qr-section{
+    text-align:center;
+    padding:60px 20px;
+}
+
+.qr-section img{
+    max-width:250px;
+    width:100%;
+    border-radius:12px;
 }
