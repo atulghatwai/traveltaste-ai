@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://atulghatwai.github.io/Foody/sitemap.xml
+Sitemap: https://atulghatwai.github.io/traveltaste-ai/sitemap.xml
