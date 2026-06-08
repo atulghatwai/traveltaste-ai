@@ -49,7 +49,7 @@ color:white;
 }
 
 .hero{
-padding:100px 0;
+padding:60px 0;
 text-align:center;
 background:linear-gradient(
 135deg,
@@ -91,7 +91,7 @@ text-decoration:none;
 }
 
 .features{
-padding:80px 0;
+padding:40px 0;
 background:#111827;
 }
 
@@ -112,20 +112,21 @@ margin-top:40px;
 background:#1e293b;
 padding:30px;
 border-radius:15px;
-  text-align:center;
- .contact-card a{
-    color:white;
-    font-weight:600;
-    text-decoration:none;
+text-align:center;
+}
+
+.contact-card a{
+color:white;
+font-weight:600;
+text-decoration:none;
 }
 
 .contact-card a:hover{
-    color:#4ff3ff;
-}   
+color:#4ff3ff;
 }
 
 .pricing{
-padding:80px 0;
+padding:40px 0;
 }
 
 .pricing h2{
@@ -167,7 +168,7 @@ margin-bottom:10px;
 }
 
 .cta{
-padding:80px 0;
+padding:40px 0;
 text-align:center;
 background:#111827;
 }
@@ -200,20 +201,14 @@ font-size:0.9rem;
     padding:60px 20px;
 }
 
-.qr-section img{
-    max-width:250px;
-    width:100%;
-    border-radius:12px;
-}
 .qr-section{
-    text-align:center;
-    margin:40px auto;
+text-align:center;
+margin:20px auto;
 }
 
 .qr-section img{
-    width:250px;
-    max-width:100%;
-    display:block;
-    margin:20px auto;
-    border-radius:12px;
+width:200px;
+display:block;
+margin:10px auto;
+border-radius:12px;
 }
