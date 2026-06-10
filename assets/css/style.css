@@ -285,19 +285,16 @@ text-decoration:none;
 
 @media(max-width:768px){
 
-.mobile-hide{
-display:none;
+.contact-grid{
+grid-template-columns:1fr !important;
 }
-
-}
-
 
 .logo{
 font-size:1.2rem;
 }
 
 nav ul{
-gap:8px;
+gap:10px;
 font-size:0.75rem;
 flex-wrap:wrap;
 justify-content:center;
