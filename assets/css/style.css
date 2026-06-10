@@ -285,11 +285,12 @@ text-decoration:none;
 
 @media(max-width:768px){
 
-.contact-grid{
-grid-template-columns:1fr;
+.mobile-hide{
+display:none;
 }
 
 }
+
 
 .logo{
 font-size:1.2rem;
